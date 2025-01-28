@@ -1,0 +1,2 @@
+The abundance_computation&plot.R is the code we calculate the abundance index and plot the index aggregate over the year
+The Species_Richness_Index_computation.R is the code we calculate the richness by gird_year index and plot the nonlinear relationship between richness and visits.
